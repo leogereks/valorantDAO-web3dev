@@ -1,11 +1,13 @@
-# WEB3DEV x thirdweb - construa sua própria DAO com apenas Javascript
+# WEB3DEV x thirdweb - only JavaScript DAO
 
-### **Bem vind@s 👋**
-Para iniciar com esse projeto, clone o repo e siga esses comandos:
+### **Welcome 👋**
 
-1. Rode `npm install` no diretório raiz
-2. Rode `npm start` para iniciar o projeto
-3. Comece a codar!
+This is an application made on the web3 blockchain, referring to the bootcamp carried out with the support of WEB3DEV.
 
-### **Perguntas?**
-Faça link da sua conta do Discord na [página no bootcamp](https://bootcamp.web3dev.com.br/courses/JS_DAO) para ter acesso aos canais de ajuda e monitores no servidor da WEB3DEV
+- Website is in portuguese, all you have to do is connect your Metamask to the Rinkeby testnet (don't forget get some Rinkeby testnet ETH) and mint for free your valorant NFT and be part of Valorant's DAO.
+
+
+### **References**
+WEB3DEV - https://www.web3dev.com.br/
+Guide to Ethereum's Rinkeby Testnet - https://www.alchemy.com/overviews/rinkeby-testnet
+
