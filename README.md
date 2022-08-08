@@ -8,6 +8,6 @@ This is an application made on the web3 blockchain, referring to the bootcamp ca
 
 
 ### **References**
-WEB3DEV - https://www.web3dev.com.br/
+WEB3DEV - https://www.web3dev.com.br/ </br>
 Guide to Ethereum's Rinkeby Testnet - https://www.alchemy.com/overviews/rinkeby-testnet
 
